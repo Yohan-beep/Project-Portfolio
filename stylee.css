@@ -45,7 +45,7 @@ li a.active {
    color: #03a9f4;
 }
 
-.showcase {
+.content {
    position: absolute;
    right: 0;
    width: 100%;
@@ -60,11 +60,11 @@ li a.active {
    transition: 0.5s;
 }
 
-.showcase.active {
+.content.active {
    right: 300px;
 }
 
-.showcase header {
+.content header {
    position: absolute;
    top: 0;
    left: 0;
