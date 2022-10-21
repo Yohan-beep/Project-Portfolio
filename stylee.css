@@ -46,7 +46,7 @@ li a.active {
 }
 
 .showcase {
-   position: absolute;
+   position: fixed;
    right: 0;
    width: 100%;
    min-height: 100vh;
@@ -65,7 +65,7 @@ li a.active {
 }
 
 .showcase header {
-   position: absolute;
+   position: fixed;
    top: 0;
    left: 0;
    width: 100%;
