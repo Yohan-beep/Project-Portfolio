@@ -45,7 +45,7 @@ li a.active {
    color: #03a9f4;
 }
 
-.content {
+.Content {
    position: absolute;
    right: 0;
    width: 100%;
@@ -60,11 +60,11 @@ li a.active {
    transition: 0.5s;
 }
 
-.content.active {
+.Content.active {
    right: 300px;
 }
 
-.content header {
+.Content header {
    position: absolute;
    top: 0;
    left: 0;
@@ -100,7 +100,7 @@ li a.active {
    background-position: center;
 }
 
-.showcase video {
+.Content video {
    position: absolute;
    top: 0;
    left: 0;
