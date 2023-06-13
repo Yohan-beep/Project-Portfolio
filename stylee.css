@@ -214,3 +214,32 @@ footer {
  table, th, td {
    border:1px solid white;
  }
+
+ 
+ 
+ #joke-container {
+   max-width: 500px;
+   margin: 30px auto;
+   padding: 20px;
+   background-color: #0e0101;
+   border-radius: 5px;
+   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+   text-align: center;
+ }
+ 
+ #new-joke-button {
+   display: block;
+   margin: 20px auto;
+   padding: 10px 20px;
+   font-size: 16px;
+   background-color: #000000;
+   color: #aeff00d9;
+   border: none;
+   border-radius: 5px;
+   cursor: pointer;
+ }
+ 
+ #new-joke-button:hover {
+   background-color: #45a049;
+ }
+ 
